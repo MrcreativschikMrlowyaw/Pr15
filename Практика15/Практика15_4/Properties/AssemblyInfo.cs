@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("Практика15_3_1")]
+[assembly: AssemblyTitle("Практика15_3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Практика15_3_1")]
+[assembly: AssemblyProduct("Практика15_3")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("81a52b29-a95f-44d6-b9cd-dd8b2efe7781")]
+[assembly: Guid("4b775aa8-e417-4d28-bee0-df1dad98e484")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

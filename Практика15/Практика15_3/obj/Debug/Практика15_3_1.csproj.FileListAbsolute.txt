@@ -1,0 +1,10 @@
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\bin\Debug\Практика15_3_1.exe.config
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\bin\Debug\Практика15_3_1.exe
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\bin\Debug\Практика15_3_1.pdb
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.csprojAssemblyReference.cache
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.Form1.resources
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.Properties.Resources.resources
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.csproj.GenerateResource.cache
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.csproj.CoreCompileInputs.cache
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.exe
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_3_1\obj\Debug\Практика15_3_1.pdb

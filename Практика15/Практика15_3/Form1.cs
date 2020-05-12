@@ -8,43 +8,32 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Практика15_3
+namespace Практика15_3_1
 {
     public partial class Form1 : Form
     {
-        byte i=1, b, u=0;
-        static Random rnd = new Random();
+        bool isPressed;
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            b = Convert.ToByte(textBox1.Text);
-            if (rnd.Next(10) == b)
-            { 
-                label2.Text = "Угадали!";
-                u++;
-            }
-            else label2.Text = "Не угадали!";
-            i++;
-            if (i==10)
-            {
-                label3.Text = "Коэффициент удачи: " + ((u / 10f) * 100) + "%";
-                i = 0;
-                u = 0;
-            }
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            label1.Text = "";
+            button1.Text = "Нажми меня!";
+            isPressed = false;
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (isPressed) Close();
+            else
+            {
+                label1.Text = "Ты нажал на меня! Это больно!";
+                isPressed = true;
+            }
         }
     }
 }

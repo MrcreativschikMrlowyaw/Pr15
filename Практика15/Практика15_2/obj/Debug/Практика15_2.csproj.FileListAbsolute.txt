@@ -7,3 +7,4 @@ F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_2\obj\Debug
 F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_2\obj\Debug\Практика15_2.csproj.CoreCompileInputs.cache
 F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_2\obj\Debug\Практика15_2.exe
 F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_2\obj\Debug\Практика15_2.pdb
+F:\ikmrc\Desktop\ООП\КлР\Практика15\Практика15_2\obj\Debug\Практика15_2.csprojAssemblyReference.cache

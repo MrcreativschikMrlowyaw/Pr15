@@ -26,5 +26,10 @@ namespace Практика15_2
         {
             label2.Text = ("Указанное число миль равна: " + Convert.ToDouble(textBox1.Text) * 1.609d + " км");
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

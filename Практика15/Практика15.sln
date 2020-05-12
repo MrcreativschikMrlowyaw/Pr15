@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика15_1", "П�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика15_2", "Практика15_2\Практика15_2.csproj", "{04F6C7E3-082A-49E7-B024-DE2346829867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика15_3", "Практика15_3\Практика15_3.csproj", "{4B775AA8-E417-4D28-BEE0-DF1DAD98E484}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика15_4", "Практика15_3\Практика15_4.csproj", "{4B775AA8-E417-4D28-BEE0-DF1DAD98E484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика15_3_1", "Практика15_3_1\Практика15_3_1.csproj", "{81A52B29-A95F-44D6-B9CD-DD8B2EFE7781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4B775AA8-E417-4D28-BEE0-DF1DAD98E484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B775AA8-E417-4D28-BEE0-DF1DAD98E484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B775AA8-E417-4D28-BEE0-DF1DAD98E484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A52B29-A95F-44D6-B9CD-DD8B2EFE7781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A52B29-A95F-44D6-B9CD-DD8B2EFE7781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A52B29-A95F-44D6-B9CD-DD8B2EFE7781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A52B29-A95F-44D6-B9CD-DD8B2EFE7781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
